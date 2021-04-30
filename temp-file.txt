@@ -7,3 +7,13 @@ Delete a branch using -d flag with git branch: git branch -d my-new-feature
 To combine changes made on different branches, use merge.
 Git incorporates other branches into the currenc branch by default.
 So first go to your base branch, then merge: git merge update-readme
+OK, but what if there are two commits in two seperate branches that make different edits to the same line of text?
+That's what we call 'a conflict'
+In this case, merging the two branching will require you to nano the merged file to change/remove the 
+unwanted text.
+
+To summarize:
+a) Git branching allows you and others to work on the same code base together.
+b) You can create a branche with the command git branch [name of branch]
+c) To switch to a branch use git checkout [name of branch]
+d) You can combine a branch with your current branch by using git merge.
