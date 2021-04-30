@@ -1,0 +1,8 @@
+Temporary Text File
+To add a new branch titled my-new-feature: git branch my-new-feature
+Remember that the check which branch you're on or you've created: git branch
+To make my-new-feature the current branch: git checkout my-new-feature
+Looking at git status will also tell you which branch your on (Pro tip)
+Delete a branch using -d flag with git branch: git branch -d my-new-feature
+To combine changes made on different branches, use merge.
+Git incorporates other branches into the currenc branch by default.
