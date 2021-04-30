@@ -1,0 +1,97 @@
+commit e0983592844e13dd760f2fa3963847b99727ddfc
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Sat May 1 00:13:11 2021 +0900
+
+    deleted temp-file.txt
+
+commit 9e41fd9507751431c7d93abe93e732a81f802b0a
+Merge: 54daea8 e73f49b
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:54:14 2021 +0900
+
+    conflict resolved (exercise)
+
+commit 54daea8a414a872df376e80e66a0ea063bf640a9
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:52:14 2021 +0900
+
+    changed branch to brnch
+
+commit e73f49b58170cfb8db709173c187bfa03182950a
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:50:47 2021 +0900
+
+    changed brnch to brunch and added a line
+
+commit abe51a71f06925914f92eadb362a761aa050dd26
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:46:16 2021 +0900
+
+    added exercise line to readme.txt
+
+commit 9e82e3e7c8652befe8a9a4b376f73a649eb04f64
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:41:53 2021 +0900
+
+    changed temp-file
+
+commit 75eaab8581936382d27ef480976216368511eaeb
+Merge: 61e7da0 e614a03
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:33:40 2021 +0900
+
+    resolved conflict
+
+commit 61e7da054f0281666b669db6e26cf4e8084a3269
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:27:59 2021 +0900
+
+    changed sunny to windy
+
+commit e614a03e926542cc1db9d5ec690e8747d376b53a
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:27:05 2021 +0900
+
+    changed sunny to rainy
+
+commit bf3f6ab2a69a51bf5698ef1c85327356bf689d33
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:24:22 2021 +0900
+
+    added temporary file
+
+commit 836b712edab4a6f0f22c0286179261a964e831a2
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:11:08 2021 +0900
+
+    added weather info
+
+commit 3750858f72b219c2d1a68758f7ae59e4a65864ac
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Fri Apr 30 23:07:42 2021 +0900
+
+    added a third line to readme.txt
+
+commit d76efb9cedf639c51d9d0d7de85748b6ff6f9705
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Mon Apr 26 22:01:33 2021 +0900
+
+    added gitignore
+
+commit 562c7aa29132cc65fcc24945fd4ede47819192cd
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Mon Apr 26 21:53:00 2021 +0900
+
+    added gitignore
+
+commit f79a27cc351cb6959e1def067c0efa9d6de592f6
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Mon Apr 26 21:18:09 2021 +0900
+
+    added two files
+
+commit 847371083c4b26c0ec8d004f8230d63b4e3c9d75
+Author: y-r-h <yukirea.hamano@gmail.com>
+Date:   Mon Apr 26 21:11:48 2021 +0900
+
+    added readme.txt
