@@ -6,3 +6,4 @@ Looking at git status will also tell you which branch your on (Pro tip)
 Delete a branch using -d flag with git branch: git branch -d my-new-feature
 To combine changes made on different branches, use merge.
 Git incorporates other branches into the currenc branch by default.
+So first go to your base branch, then merge: git merge update-readme
