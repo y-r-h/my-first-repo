@@ -9,7 +9,7 @@ I live in the city of Toyonaka, in Osaka Prefecture, in Japan.
 Three of my favorite books are:
 
 - *I, Claudius* by Claudius (translated by Robert Graves)
-- *L'amie prodigieuse* by Elena Farrente
+- *9-11* by Noam Chomsky
 - *Undercover Economist* by Tim Harford
 
 ### Food
